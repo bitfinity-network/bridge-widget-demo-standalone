@@ -9,6 +9,8 @@ import {
   BITFINITY_CHAINS
 } from '@bitfinity-network/bridge-widget';
 
+import '@rainbow-me/rainbowkit/styles.css';
+
 const config = getDefaultConfig({
   appName: 'bridge-widget',
   projectId: 'YOUR_PROJECT_ID',
