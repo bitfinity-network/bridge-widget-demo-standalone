@@ -13,7 +13,7 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "@bitfinity-network/bridge": "^1.2.0",
-    "@bitfinity-network/bridge-widget": "^1.2.0",
+    "@bitfinity-network/bridge-widget": "^1.3.0",
     "@rainbow-me/rainbowkit": "^2.0.7",
     "@particle-network/btc-connectkit": "^1.0.0-alpha.25"
   },
